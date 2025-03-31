@@ -1,0 +1,15 @@
+:root {
+  --main-bg-color: #313339;
+  --main-text-color: #ffffff;
+  --secondary-theme-color: #a7caed;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
+}
+.App {
+  margin: 0 10rem 0 10rem;
+  padding-bottom: 5rem;
+}
