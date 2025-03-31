@@ -24,6 +24,7 @@ For the front-end developers, we learned how data is trained using the informati
 
 For the ML developer, he learned the process of displaying the data that he generated with his model to the users. He was reminded of the importance of the front end for enhanced user experience.
 
-## What's next for MindBloom.ai
+## What's next for Menta
+
 
 In this time of economic instability, people often forget to take care of their mental health. As strong believers in the importance of our project, we are continuing to further improve our product and mental health for everyone. Specifically, we want to display more insightful data on our dashboard and make it more accessible to everyone through SEO. We also want to enhance our user interface for ease of use. Lastly, we want to improve our ML model by training with more datasets for generalizing the performance of the model.
