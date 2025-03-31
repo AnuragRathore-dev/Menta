@@ -1,4 +1,4 @@
-# Welcome to Mindbloom.ai!
+# Welcome to Menta!
 
 ## Introduction
 
